@@ -1,0 +1,21 @@
+[
+    {
+        
+        "name": "City General Hospital",
+        "patient_count": 150,
+        "location": "City A"
+    },
+    {
+
+        "name": "County Medical Center",
+        "patient_count": 200,
+        "location": "City B"
+    },
+    {
+
+        "name": "Medicity",
+        "patient_count": 100,
+        "location": "City C"
+    }
+
+]
